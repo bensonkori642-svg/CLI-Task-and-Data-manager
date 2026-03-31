@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+A command-line based Task and Data Manager built using Python, designed to demonstrate core programming concepts such as object-oriented programming (OOP), file handling, and user authentication. The application allows users to sign up, log in, and manage their data efficiently through a structured CLI interface.
+
+The system uses CSV files for persistent storage, enabling data to be saved and retrieved across sessions. It includes features like user management, input validation, and error handling, making it a practical example of real-world Python application design.
+
+This project is ideal for showcasing proficiency in Python fundamentals aligned with PCAP and PCEP certification topics, including classes, functions, control flow, and modular programming.
